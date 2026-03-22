@@ -40,7 +40,7 @@ input, button{
     background-color: burlywood;
 }
 /* Mobile phones */
-@media (max-width: 480px){
+(max-width: 480px){
     body{
     background:linear-gradient(rgb(40, 220, 220), rgb(90, 83, 220)) ;
     background-repeat: no-repeat;
